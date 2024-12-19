@@ -1,9 +1,9 @@
 {
   "mappings": [
+    "/content/eds-training-chandra/:/",
     "/content/aem-boilerplate/:/",
     "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json",
-    "/content/eds-training-chandra/:/"
+    "/content/aem-boilerplate/metadata:/metadata.json"
   ],
   "includes": [
     "/content/aem-boilerplate/"
