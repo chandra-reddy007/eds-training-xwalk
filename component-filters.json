@@ -20,6 +20,14 @@
     ]
   },
   {
+    "id": "form",
+    "components": [
+      "text",
+      "title",
+      "button"
+    ]
+  },
+  {
     "id": "cards",
     "components": [
       "card"
